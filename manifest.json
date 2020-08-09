@@ -1,0 +1,17 @@
+{
+    "name": "Lexin",
+    "description": "Quickly translate Swedish to Arabic in Lexin",
+    "version": "0.1",
+    "permissions": [
+        "contextMenus"
+    ],
+    "background": {
+        "scripts": [
+            "lexinTranslate.js"
+        ]
+    },
+    "icons": {
+        "32": "icon.ico"
+    },
+    "manifest_version": 2
+}
